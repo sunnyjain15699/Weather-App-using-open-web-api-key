@@ -1,1 +1,1 @@
-# Weather-App-using-open-web-api-key
+# Weather-App-using-openWeather-web-api
